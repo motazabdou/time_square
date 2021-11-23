@@ -35,11 +35,11 @@
   </head>
   <body>
     <header class="container-fluid fixed-top">
-      <div id="topnav" class="row bg-white pt-lg-2 d-none d-lg-flex">
+      <div id="topnav" class="row pt-lg-2 d-none d-lg-flex">
         <!-- Logo -->
         <div class="col-12 col-lg-4 my-auto py-1 py-lg-0 text-center text-lg-left">
           <a href="{% url 'home' %}" class="nav-link main-logo-link">
-            <h2 class="logo-font text-black my-0"><strong>Time</strong> Square</h2>
+            <h2 class="logo-font text-white my-0"><strong>Time</strong> Square</h2>
           </a>
         </div>
 
@@ -47,9 +47,9 @@
         <div class="col-12 col-lg-4 my-auto py-1 py-lg-0">
           <form action="" method="GET">
             <div class="input-group w-100">
-              <input type="text" class="form-control border border-black rounded-0" name="q" placeholder="Search Watches">
+              <input type="text" class="form-control border border-black rounded-1" name="q" placeholder="Search Watches">
               <div class="input-group-append">
-                <button class="form-control btn btn-black border border-black rounded-0" type="submit">
+                <button class="form-control btn btn-white border border-black rounded-1" type="submit">
                   <span class="icon">
                     <i class="fas fa-search"></i>
                   </span>
@@ -64,10 +64,10 @@
           <ul class="list-inline list-unstyled text-center text-lg-right my-0">
             <!-- Dropdown menu -->
             <li class="list-inline-item dropdown">
-              <a href="" class="text-black nav-link" id="user-options" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a href="" class="text-white nav-link" id="user-options" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <div class="text-center">
                   <div>
-                    <i class="fas-fa-user fa-lg"></i>
+                    <i class="fas fa-user fa-lg"></i>
                     <p class="my-0">My Account</p>
                   </div>
                 </div>
@@ -88,10 +88,10 @@
 
             <!-- Shopping cart -->
             <li class="list-inline-item">
-              <a href="" class="{% if grand_total %}text-info font-weight-bold{% else %} text-black{% endif %} nav-link">
+              <a href="" class="{% if grand_total %}text-info font-weight-bold{% else %} text-white{% endif %} nav-link">
                 <div class="text-center">
                   <div>
-                    <i class="fas-fa-shopping-bag fa-lg"></i>
+                    <i class="fas fa-shopping-cart fa-lg"></i>
                     <p class="my-0">
                       {% if grand_total %}
                         {{ grand_total|floatformat:2 }}

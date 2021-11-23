@@ -3,11 +3,16 @@ html {
 }
 
 body {
-    background: url('/media/watch8.png') no-repeat center center fixed;
+    background: url('/media/watch10.png') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 160px);
     color: black;
     font-family: 'Roboto', sans-serif;
+}
+
+#topnav {
+    background: #000;
+    color: white;
 }
 
 /* from Bulma */
@@ -27,6 +32,11 @@ body {
     width: fit-content;
 }
 
+.hero h2 {
+    font-family: 'italiana', serif;
+    font-weight: bold;
+}
+
 .shop-now-button {
     background: black;
     color: white;
@@ -36,6 +46,11 @@ body {
 .btn-black {
     background: black;
     color: white;
+}
+
+.btn-white {
+    background: white;
+    color: black;
 }
 
 .shop-now-button:hover,
@@ -54,6 +69,10 @@ body {
 
 .border-black {
     border: 1px solid black !important;
+}
+
+.border-white {
+    border: 1px solid white !important;
 }
 
 /* -------------------------------- Media Queries */
