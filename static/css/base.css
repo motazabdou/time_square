@@ -26,10 +26,37 @@ body {
 
 .logo-font {
     text-transform: uppercase;
+    font-family: 'italiana', serif;
+    font-weight: bold;
 }
 
 .main-logo-link {
     width: fit-content;
+}
+
+.nav-links-section a {
+    font-family: 'roboto', sans-serif;
+    font-size: 0.9rem;
+}
+
+.navbar {
+    border-bottom: solid 1px silver;
+    border-top: solid 0.05px rgb(32, 32, 32);
+}
+
+#main-nav ul li {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.search-bar button {
+    background: rgba(255, 255, 255, 1);
+    color: black;
+}
+
+.search-bar button:hover {
+    background: rgba(255, 255, 255, 0.85);
+    color: black;
 }
 
 .hero h2 {
