@@ -59,6 +59,10 @@ body {
     color: black;
 }
 
+.navbar-toggler-icon {
+    color: white;
+}
+
 .hero h2 {
     font-family: 'italiana', serif;
     font-weight: bold;
