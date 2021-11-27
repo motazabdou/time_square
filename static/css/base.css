@@ -36,7 +36,7 @@ body {
 
 .nav-links-section a {
     font-family: 'roboto', sans-serif;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
 }
 
 .navbar {
@@ -63,9 +63,21 @@ body {
     color: white;
 }
 
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+}
+
 .hero h2 {
     font-family: 'italiana', serif;
     font-weight: bold;
+    color: #131212;
+    text-align: center;
 }
 
 .shop-now-button {
@@ -127,5 +139,25 @@ body {
 
     .header-container {
         padding-top: 160px;
+    }
+}
+
+@media (max-width: 991px){
+    .header-container {
+        padding-top: 116px;
+    }
+
+    body {
+        height: calc(100vh - 116px);
+    }
+}
+
+@media (max-width: 768px){
+    .navbar .list-inline-item {
+        margin-right: 0;
+    }
+    
+    .navbar ul {
+        display: contents;
     }
 }
