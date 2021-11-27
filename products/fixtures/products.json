@@ -1,0 +1,362 @@
+[{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "01571037",
+        "name": "Tag Heuer Carrera Chronograph 44mm Stainless Steel Automatic Watch",
+        "description": "A TAG Heuer Carrera chronograph with all the prestige of its motor-racing heritage. With 44-mm fine-brushed and polished steel case, our manufacture Heuer 02 automatic movement and trendy green brushed dial, punctuated with a second indicator and two green chronograph counters, makes for unbeatable functional style. The beveled sapphire crystal dome protects the dial and steel screw-down sapphire case back, revealing our manufacture movement. Powered by our in-house Heuer 02 movement, an automatic column-wheel chronograph movement – signatures of improved chronograph timekeeping and high-quality manufacture movements - with 80-hour power reserve. Model ref: CBN2A10.BA0643",
+        "price": 5450.00,
+        "category": 4,
+        "rating": 4.6,
+        "image_url": "https://weirandsons.ie/pub/media/catalog/product/cache/5f8654489d72d0e42027cbe0bdd0eeaa/0/1/01-130442_2.jpg",
+        "image": "Tag-Heuer-Carrera-Chronograph-44mm-Stainless Steel-Automatic-Watch.jpg"
+    }
+},
+{
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+        "sku": "01564923",
+        "name": "Tag Heuer Formula 1 43mm Stainless Steel Quartz Watch",
+        "description": "This watch has a silver grey dial with luminescent markers and hands. The fixed ceramic bezel with tachymeter scale ensures accuracy when using this chronograph, a precision-driven chronograph inspired by Tag Heuer’s ongoing commitment to Formula One racing. With a water resistancy up to 200m and sapphire glass shows the durability of this watch on all occasions. The bold bracelet is fine-brushed and polished steel and ceramic. The oversized “12” above the shield is a distinctive touch. Model ref: CAZ1011.BA0843",
+        "price": 2100.00,
+        "category": 4,
+        "rating": 4.6,
+        "image_url": "https://weirandsons.ie/pub/media/catalog/product/cache/5f8654489d72d0e42027cbe0bdd0eeaa/0/1/01-124321_1.jpg",
+        "image": "Tag-Heuer-Formula1-43mm-Stainless-Steel-Quartz.jpg"
+    }
+},
+{
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+        "sku": "01570933",
+        "name": "Tag Heuer Carrera 29mm Stainless Steel Automatic Watch.",
+        "description": "This Tag Heuer watch is the perfect balance between strength and elegance. The 29mm steel case of this Carrera features a bold H-shape bracelet with polished and brushed links secured by a folding clasp. The white mother of pearl dial gives this watch an undeniable sense of pride. Its updated rhodium-plated hands and indexes ensure matching precision. It has an automatic movement that has apprx. 40 hours power reserve and a water resistancy of 100m. Model ref: WBN2410.BA0621",
+        "price": 2200.00,
+        "category": 4,
+        "rating": 4.7,
+        "image_url": "https://weirandsons.ie/pub/media/catalog/product/cache/5f8654489d72d0e42027cbe0bdd0eeaa/0/1/01-130338_1.jpg",
+        "image": "Tag-Heuer-Carrera-29mm-Stainless-Steel-Automatic.jpg"
+    }
+},
+//Breitling
+{
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+        "sku": "01569836",
+        "name": "Breitling Superocean Heritage B01 44mm Stainless Steel Automatic Chronograph Watch.",
+        "description": "Breitling Superocean Heritage B01 44mm Stainless Steel Automatic Chronograph Watch. Inspired by the original Superocean from the 1950s, the Superocean Heritage combines iconic design features with a modern touch. Sporty and elegant, the Superocean Heritage is a true embodiment of style at sea. Featuring the iconic triangular-shaped hands as well as a unidirectional bezel with a polished ceramic ring, the Superocean Heritage is an elegant looking diver’s watch. A mesh-styled rubber strap fitting a folding buckle, this Superocean Heritage is powered by the in-house Breitling Manufacture Caliber 01, a COSC-certified chronometer. Model reference: AB0162121B1S1",
+        "price": 7125.00,
+        "category": 5,
+        "rating": 3.0,
+        "image_url": "https://weirandsons.ie/pub/media/catalog/product/cache/5f8654489d72d0e42027cbe0bdd0eeaa/0/1/01-129236_1.jpg",
+        "image": "Breitling-Superocean-Heritage-B01-44mm-Stainless-Steel-Automatic-Chronograph.jpg"
+    }
+},
+{
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+        "sku": " 01569837",
+        "name": "Breitling Superocean Heritage B20 44mm Stainless Steel Automatic Watch",
+        "description": "Breitling Superocean Heritage B20 44mm Stainless Steel Automatic Watch. This watch has a blue dial and bezel to copy the colour of the ocean, with a date window at 6 o'clock. A certified chronometer with a water resistancy up to 200m. Housed in stainless steel with sapphire glass and a steel mesh bracelet. Apprx. 70 hours power reserve goes along with this automatic movement. Model reference: AB2030161C1A1",
+        "price": 4625.00,
+        "category": 5,
+        "rating": 5.0,
+        "image_url": "https://weirandsons.ie/pub/media/catalog/product/cache/5f8654489d72d0e42027cbe0bdd0eeaa/0/1/01-129237_2.jpg",
+        "image": "Breitling-Superocean-Heritage-B20-44mm-Stainless-Steel-Automatic.jpg"
+    }
+},
+{
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+        "sku": "01569832",
+        "name": "Breitling Chronomat B01 42mm Stainless Steel Automatic Watch.",
+        "description": "Breitling Chronomat B01 42mm Stainless Steel Automatic Watch. This Breitling Chronomat is an all purpose watch for everyday or event wear. With a silver dial and black subdials, it will last the test of time. The glass is Cambered sapphire, glareproofed on both sides, so no matter what angle or time it is always easily read. A steel case and the signature steel Rouleaux bracelet make it very durable, to be worn anywhere. A water resistancy of 200m and power reserve of apprx. 70 hours. Model ref: AB0134101G1A1",
+        "price": 7995.00,
+        "category": 5,
+        "rating": 4.7,
+        "image_url": "https://weirandsons.ie/pub/media/catalog/product/cache/5f8654489d72d0e42027cbe0bdd0eeaa/0/1/01-129232_1.jpg",
+        "image": "Breitling-Chronomat-B01-42mm-Stainless-Steel-Automatic.jpg"
+    }
+},
+{
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+        "sku": "01569610",
+        "name": "Breitling Navitimer Automatic 35 Silver Dial Stainless Steel Bracelet",
+        "description": "Stainless Steel and 18k Rose Gold - Mother-Of-Pearl Diamonds. Refined and elegant, the Navitimer Automatic 35 combines the historic appeal of a true icon with the sophistication of a contemporary timepiece.",
+        "price": 8400.00,
+        "category": 5,
+        "rating": 4.4,
+        "image_url": "https://cdn.shopify.com/s/files/1/0438/0740/8294/products/01-16792_1b3e4dc2-bf89-43a7-8662-dd36c440a6d1_500x.jpg?v=1605627934",
+        "image": "Breitling-Navitimer-Automatic-35-Silver-Dial-Stainless-Steel-Bracelet.jpg"
+    }
+},
+{
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+        "sku": "01569103",
+        "name": "Breitling Navitimer Automatic 35 Silver Dial Burgundy Leather Strap",
+        "description": "Refined and elegant, the Navitimer Automatic 35 combines the historic appeal of a true icon with the sophistication of a contemporary timepiece.",
+        "price": 3900.00,
+        "category": 5,
+        "rating": 4.5,
+        "image_url": "https://cdn.shopify.com/s/files/1/0438/0740/8294/products/01-17495_500x.jpg?v=1605637216",
+        "image": "Breitling-Navitimer-Automatic-35-Silver-Dial-Burgundy-Leather-Strap.jpg"
+    }
+},
+{
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+        "sku": "01569123",
+        "name": "Breitling Avenger Automatic GMT 43 Black Dial Stainless Steel Bracelet",
+        "description": "Bold, extremely robust and shock resistant, the Avenger Automatic GMT 43 features an additional red hand indicating a second time zone. As a true Breitling Avenger, it can be used wearing gloves and offers unrivalled safety and reliability to any airborne adventurer.",
+        "price": 4300.00,
+        "category": 5,
+        "rating": 4.7,
+        "image_url": "https://cdn.shopify.com/s/files/1/0438/0740/8294/products/01-17292_500x.jpg?v=1609099413",
+        "image": "Breitling-Avenger-Automatic-GMT-43-Black-Dial-Stainless-Steel-Bracelet.jpg"
+    }
+},
+{
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+        "sku": "01569152",
+        "name": "Breitling Navitimer Automatic 41 Blue Dial Stainless Steel Bracelet",
+        "description": "Stainless Steel - Blue Refined and elegant, the Navitimer Automatic 41mm combines the historic appeal of a true icon with the sophistication of a contemporary timepiece.",
+        "price": 4400.00,
+        "category": 5,
+        "rating": 4.4,
+        "image_url": "https://cdn.shopify.com/s/files/1/0438/0740/8294/products/01-15256_e5769bc4-91ec-4216-a4d8-ecb10fb70781_500x.jpg?v=1605622692",
+        "image": "Breitling-Navitimer-Automatic-41-Blue-Dial-Stainless-Steel-Bracelet.jpg"
+    }
+},
+{
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002761055",
+        "name": "Breitling Navitimer Automatic 35 Mother-Of-Pearl Dial 18k Rose Gold Strap",
+        "description": "Refined and elegant, the Navitimer Automatic 35 combines the historic appeal of a true icon with the sophistication of a contemporary timepiece. A fashion statement on it's own, with its 18k Rose Gold Strap",
+        "price": 28690,
+        "category": 5,
+        "rating": 3.0,
+        "image_url": "https://cdn.shopify.com/s/files/1/0438/0740/8294/products/01-17498_db51aad1-6097-4b94-bfa5-a5641bba30dd_500x.jpg?v=1605637249",
+        "image": "Breitling-Navitimer-Automatic-35-Mother-Of-Pearl-Dial-18k-Rose-Gold-Strap.jpg"
+    }
+},
+//ladies rolex
+{
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+        "sku": "01529353",
+        "name": "Ladies Rolex Date-Just White Gold Automatic Watch",
+        "description": "This stunning ladies watch from Rolex is the quintessential feminine Swiss watch. Set on a white gold presidential bracelet, the 26mm white gold diamond set case houses an immaculate white dial. The dial features diamond hour markers and a date feature at 3 o’clock. A fluted bezel completes the look. The watch is water resistant up to a pressure of 10 bar. Model ref: 1791239",
+        "price": 29850,
+        "category": 1,
+        "rating": 4.6,
+        "image_url": "https://weirandsons.ie/pub/media/catalog/product/cache/5f8654489d72d0e42027cbe0bdd0eeaa/0/1/01529353_2100x2100.jpg",
+        "image": "Ladies-Rolex-Date-Just-White-Gold-Automatic-Watch.jpg"
+    }
+},
+{
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002820147",
+        "name": "JACQUIE AICHE Vintage Rolex Datejust diamond & rose-gold watch",
+        "description": "The Datejust is one of Rolex's most esteemed timepieces, originally designed and released in 1945 to mark the house's 40th anniversary and now reimagined through an opulent lens by fine jewellery designer Jacquie Aiche. Swiss-crafted, this vintage Oystersteel and 18kt rose-gold model has been restored in the designer's LA studio with a laser-engraved leopard motif and ten baguette-cut diamond indices totalling 0.27ct, alongside its original articulated Oyster bracelet and clasp.",
+        "price": 21800,
+        "category": 1,
+        "rating": 3.2,
+        "image_url": "https://assetsprx.matchesfashion.com/img/product/1300/1447352_1.jpg",
+        "image": "JACQUIE-AICHE-Vintage-Rolex-Datejust-diamond-&-rose-gold.jpg"
+    }
+},
+{
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+        "sku": "01514157",
+        "name": "2001 Rolex Oyster Datejust President vintage watch",
+        "description": "Vintage Ladies Rolex Oyster Perpetual Datejust Watch with Automatic Movement, a Champagne Dial, 18K Gold Applied Baton Hour Markers and Hands and a Date Display Window at the 3 O'Clock Position. Set in an 18K Yellow Gold Case with a Self Winding Crown and 18K Gold Fluted Bezel. Fastened on an 18K Yellow Gold President Bracelet. Water Resistant at 100 meters.",
+        "price": 12500,
+        "category": 1,
+        "rating": 4.7,
+        "image_url": "https://weirandsons.ie/pub/media/catalog/product/cache/5f8654489d72d0e42027cbe0bdd0eeaa/0/1/01-73511_1.jpg",
+        "image": "2001-Rolex-Oyster-Datejust-President-vintage-watch.jpg"
+    }
+},
+{
+    "pk": 15,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002990740",
+        "name": "Rolex 2021 unworn Lady-Datejust 28mm",
+        "description": "You need a watch that looks as timeless as you do. And how can you expect sleek design without turning to Rolex? This 2021 unworn Lady-Datejust 28mm boasts an automatic movement and two-tone design constructed from stainless steel and rose gold. This piece takes the cake...and punctually.",
+        "price": 9880,
+        "category": 1,
+        "rating": 4.8,
+        "image_url": "https://cdn-images.farfetch-contents.com/16/77/57/19/16775719_33201894_1000.jpg",
+        "image": "Rolex-2021-unworn-Lady-Datejust-28mm.jpg"
+    }
+},
+{
+    "pk": 16,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003050248",
+        "name": "Rolex 2021 unworn Datejust 36mm",
+        "description": "First presented in 1945, Rolex's iconic Datejust timepiece was the first automatic-winding watch to include a date window. Referred to by Rolex as a 'classic watch of reference', the Datejust is one of their iconic models, perfectly fusing technical watchmaking know-how with a timeless and archival appeal like this 2021 unworn Datejust 36mm.",
+        "price": 14660,
+        "category": 1,
+        "rating": 4.4,
+        "image_url": "https://cdn-images.farfetch-contents.com/16/91/54/03/16915403_33771908_1000.jpg",
+        "image": "Rolex-2021-unworn-Datejust-36mm.jpg"
+    }
+},
+//mens rolex
+{
+    "pk": 17,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001340155",
+        "name": "Rolex GMT-Master Pepsi",
+        "description": "Self-winding automatic watch, features a 40mm stainless steel case with a red and blue Pepsi bezel surrounding a black dial on a stainless steel Oyster bracelet with folding buckle. Functions include hours, minutes, seconds, date and GMT.",
+        "price": 23738,
+        "category": 1,
+        "rating": 4.6,
+        "image_url": "https://cdn-images.farfetch-contents.com/16/43/75/11/16437511_31716443_1000.jpg",
+        "image": "Rolex-GMT-Master-Pepsi.jpg"
+    }
+},
+{
+    "pk": 18,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001600425",
+        "name": "Rolex Cosmograph Daytona",
+        "description": "Self-winding automatic watch, features a 40mm 18k Everose gold case with a black Cerachrom bezel surrounding a black dial on a black alligator strap with an 18k Everose gold deployant buckle. Functions include hours, minutes, small seconds, chronograph and tachymeter.",
+        "price": 75836,
+        "category": 1,
+        "rating": 4.6,
+        "image_url": "https://cdn-images.farfetch-contents.com/17/64/03/44/17640344_36882011_1000.jpg",
+        "image": "Rolex-Cosmograph-Daytona.jpg"
+    }
+},
+{
+    "pk": 19,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001730010",
+        "name": "Rolex Sky-Dweller 18k Gold Silver Roman Dial Mens GMT",
+        "description": "Self-winding automatic watch, features a 42mm 18k yellow gold case surrounding a silver dial on a brand new brown alligator strap with an 18k yellow gold deployant buckle. Functions include hours, minutes, seconds, annual calendar and GMT.",
+        "price": 42700,
+        "category": 1,
+        "rating": 4.7,
+        "image_url": "https://cdn2.chrono24.com/images/uhren/19560294-7m5ptr8za5clmy2vz1nwq34c-ExtraLarge.jpg",
+        "image": "Rolex-Sky-Dweller-18k-Gold-Silver-Roman-Dial-Mens-GMT.jpg"
+    }
+},
+{
+    "pk": 20,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001730010",
+        "name": "Rolex Sky-Dweller Yellow Gold 326138 BK",
+        "description": "Rolex Sky Dweller Silver Dial 18kt Yellow Gold Brown Leather Mens Watch 326138 bk. 18kt yellow gold case with a brown leather strap. Bi-directional rotating 18kt yellow gold bezel. black dial, index hour markers. Minute markers around the outer rim. Automatic movement. Scratch resistant sapphire crystal. Screw down crown",
+        "price": 42700,
+        "category": 1,
+        "rating": 4.7,
+        "image_url": "https://cdn2.chrono24.com/images/uhren/19560294-7m5ptr8za5clmy2vz1nwq34c-ExtraLarge.jpg",
+        "image": "Rolex-Sky-Dweller-Yellow-Gold-326138-BK.png"
+    }
+},
+{
+    "pk": 21,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001890157",
+        "name": "Patek Philippe Chronograph",
+        "description": "manual wind watch, features a 39.4mm platinum case surrounding a blue sunburst diamond dial on a blue alligator strap with a platinum Calatrava Cross deployant buckle. Functions include hours, minutes, small seconds, chronograph and tachymeter.",
+        "price": 1729,
+        "category": 2,
+        "rating": 3,
+        "image": "patekphilippe_chronograph.jpg"
+    }
+},
+{
+    "pk": 22,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002111605",
+        "name": "Patek Philippe Complications Annual Calendar Chronograph",
+        "description": "self-winding automatic watch, features a 40.5mm platinum case with a diamond bezel surrounding a blue diamond dial on a brand new blue alligator strap with a platinum and diamond Calatrava Cross deployant buckle. Functions include hours, minutes, small seconds, day, date, month, annual calendar and chronograph.",
+        "price": 1980,
+        "category": 2,
+        "rating": 5,
+        "image": "patekphilippe_complications_calendar.jpg"
+    }
+},
+{
+    "pk": 23,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002260206",
+        "name": "Patek Philippe Complications World Time",
+        "description": "self-winding automatic watch, features a 39.5mm platinum case surrounding a cloisonne enamel North Pole dial with on a platinum bracelet with folding buckle. Functions include hours, minutes, world time and am/pm indicator.",
+        "price": 2540,
+        "category": 2,
+        "rating": 4.7,
+        "image": "patekphilippe_complications_worldtime.jpg"
+    }
+},
+{
+    "pk": 24,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002440521",
+        "name": "Audemars Piguet Concept Royal Oak Tourbillon",
+        "description": "manual wind watch, features a 44mm alacrite case with a titanium bezel surrounding a skeleton dial on a grey fabric strap with a titanium deployant buckle. Functions include hours, minutes, small seconds and tourbillon.",
+        "price": 2605,
+        "category": 3,
+        "rating": 4.4,
+        "image": "ap_concept.jpg"
+    }
+},
+{
+    "pk": 25,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002601115",
+        "name": "Audemars Piguet Royal Oak Tourbillon Chronograph",
+        "description": "manual wind watch, features a 44mm black ceramic case surrounding an openworked black satin-brushed dial on a black ceramic bracelet with folding buckle. Functions include hours, minutes, small seconds, chronograph and tourbillon.",
+        "price": 5104,
+        "category": 3,
+        "rating": 4.5,
+        "image": "ap_royaloak_tourbillon.jpg"
+    }
+},
+{
+    "pk": 26,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002690715",
+        "name": "Audemars Piguet Royal Oak Offshore Tourbillon Chronograph",
+        "description": "manual wind watch, features a 44mm 18k rose gold case with a black rubberized bezel surrounding a black Mega Tapiserrie dial on a black rubber strap with an 18k rose gold deployant buckle. Functions include hours, minutes, small seconds, chronograph and tourbillon.",
+        "price": 2020,
+        "category": 3,
+        "rating": 4.7,
+        "image": "ap_royaloak_offshore.jpg"
+    }
+},
+]

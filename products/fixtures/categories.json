@@ -1,0 +1,41 @@
+[{
+    "pk": 1,
+    "model": "products.category",
+    "fields": {
+        "name": "rolex",
+        "friendly_name": "Rolex"
+    }
+},
+{
+    "pk": 2,
+    "model": "products.category",
+    "fields": {
+        "name": "patek_philippe",
+        "friendly_name": "Patek Philippe"
+    }
+},
+{
+    "pk": 3,
+    "model": "products.category",
+    "fields": {
+        "name": "audemars_piguet",
+        "friendly_name": "Audemars Piguet"
+    }
+},
+{
+    "pk": 4,
+    "model": "products.category",
+    "fields": {
+        "name": "tag_heuer",
+        "friendly_name": "Tag Heuer"
+    }
+},
+{
+    "pk": 5,
+    "model": "products.category",
+    "fields": {
+        "name": "breitling",
+        "friendly_name": "Breitling"
+    }
+}
+]
