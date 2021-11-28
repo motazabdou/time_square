@@ -3,8 +3,8 @@
     "model": "products.product",
     "fields": {
         "sku": "01571037",
-        "name": "Tag Heuer Carrera Chronograph 44mm Stainless Steel Automatic Watch",
-        "description": "A TAG Heuer Carrera chronograph with all the prestige of its motor-racing heritage. With 44-mm fine-brushed and polished steel case, our manufacture Heuer 02 automatic movement and trendy green brushed dial, punctuated with a second indicator and two green chronograph counters, makes for unbeatable functional style. The beveled sapphire crystal dome protects the dial and steel screw-down sapphire case back, revealing our manufacture movement. Powered by our in-house Heuer 02 movement, an automatic column-wheel chronograph movement – signatures of improved chronograph timekeeping and high-quality manufacture movements - with 80-hour power reserve. Model ref: CBN2A10.BA0643",
+        "name": "Tag Heuer Carrera Chronograph",
+        "description": "Tag Heuer Carrera Chronograph 44mm Stainless Steel Automatic Watch - A TAG Heuer Carrera chronograph with all the prestige of its motor-racing heritage. With 44-mm fine-brushed and polished steel case, our manufacture Heuer 02 automatic movement and trendy green brushed dial, punctuated with a second indicator and two green chronograph counters, makes for unbeatable functional style. The beveled sapphire crystal dome protects the dial and steel screw-down sapphire case back, revealing our manufacture movement. Powered by our in-house Heuer 02 movement, an automatic column-wheel chronograph movement – signatures of improved chronograph timekeeping and high-quality manufacture movements - with 80-hour power reserve. Model ref: CBN2A10.BA0643",
         "price": 5450.00,
         "category": 4,
         "rating": 4.6,
@@ -17,8 +17,8 @@
     "model": "products.product",
     "fields": {
         "sku": "01564923",
-        "name": "Tag Heuer Formula 1 43mm Stainless Steel Quartz Watch",
-        "description": "This watch has a silver grey dial with luminescent markers and hands. The fixed ceramic bezel with tachymeter scale ensures accuracy when using this chronograph, a precision-driven chronograph inspired by Tag Heuer’s ongoing commitment to Formula One racing. With a water resistancy up to 200m and sapphire glass shows the durability of this watch on all occasions. The bold bracelet is fine-brushed and polished steel and ceramic. The oversized “12” above the shield is a distinctive touch. Model ref: CAZ1011.BA0843",
+        "name": "Tag Heuer Formula 1",
+        "description": "Tag Heuer Formula 1 43mm Stainless Steel Quartz Watch - This watch has a silver grey dial with luminescent markers and hands. The fixed ceramic bezel with tachymeter scale ensures accuracy when using this chronograph, a precision-driven chronograph inspired by Tag Heuer’s ongoing commitment to Formula One racing. With a water resistancy up to 200m and sapphire glass shows the durability of this watch on all occasions. The bold bracelet is fine-brushed and polished steel and ceramic. The oversized “12” above the shield is a distinctive touch. Model ref: CAZ1011.BA0843",
         "price": 2100.00,
         "category": 4,
         "rating": 4.6,
@@ -31,8 +31,8 @@
     "model": "products.product",
     "fields": {
         "sku": "01570933",
-        "name": "Tag Heuer Carrera 29mm Stainless Steel Automatic Watch.",
-        "description": "This Tag Heuer watch is the perfect balance between strength and elegance. The 29mm steel case of this Carrera features a bold H-shape bracelet with polished and brushed links secured by a folding clasp. The white mother of pearl dial gives this watch an undeniable sense of pride. Its updated rhodium-plated hands and indexes ensure matching precision. It has an automatic movement that has apprx. 40 hours power reserve and a water resistancy of 100m. Model ref: WBN2410.BA0621",
+        "name": "Tag Heuer Carrera 29mm",
+        "description": "Tag Heuer Carrera 29mm Stainless Steel Automatic Watch - This Tag Heuer watch is the perfect balance between strength and elegance. The 29mm steel case of this Carrera features a bold H-shape bracelet with polished and brushed links secured by a folding clasp. The white mother of pearl dial gives this watch an undeniable sense of pride. Its updated rhodium-plated hands and indexes ensure matching precision. It has an automatic movement that has apprx. 40 hours power reserve and a water resistancy of 100m. Model ref: WBN2410.BA0621",
         "price": 2200.00,
         "category": 4,
         "rating": 4.7,
@@ -45,7 +45,7 @@
     "model": "products.product",
     "fields": {
         "sku": "01569836",
-        "name": "Breitling Superocean Heritage B01 44mm Stainless Steel Automatic Chronograph Watch.",
+        "name": "Breitling Superocean Heritage B01",
         "description": "Breitling Superocean Heritage B01 44mm Stainless Steel Automatic Chronograph Watch. Inspired by the original Superocean from the 1950s, the Superocean Heritage combines iconic design features with a modern touch. Sporty and elegant, the Superocean Heritage is a true embodiment of style at sea. Featuring the iconic triangular-shaped hands as well as a unidirectional bezel with a polished ceramic ring, the Superocean Heritage is an elegant looking diver’s watch. A mesh-styled rubber strap fitting a folding buckle, this Superocean Heritage is powered by the in-house Breitling Manufacture Caliber 01, a COSC-certified chronometer. Model reference: AB0162121B1S1",
         "price": 7125.00,
         "category": 5,
@@ -59,7 +59,7 @@
     "model": "products.product",
     "fields": {
         "sku": " 01569837",
-        "name": "Breitling Superocean Heritage B20 44mm Stainless Steel Automatic Watch",
+        "name": "Breitling Superocean Heritage B20",
         "description": "Breitling Superocean Heritage B20 44mm Stainless Steel Automatic Watch. This watch has a blue dial and bezel to copy the colour of the ocean, with a date window at 6 o'clock. A certified chronometer with a water resistancy up to 200m. Housed in stainless steel with sapphire glass and a steel mesh bracelet. Apprx. 70 hours power reserve goes along with this automatic movement. Model reference: AB2030161C1A1",
         "price": 4625.00,
         "category": 5,
@@ -73,7 +73,7 @@
     "model": "products.product",
     "fields": {
         "sku": "01569832",
-        "name": "Breitling Chronomat B01 42mm Stainless Steel Automatic Watch.",
+        "name": "Breitling Chronomat B01",
         "description": "Breitling Chronomat B01 42mm Stainless Steel Automatic Watch. This Breitling Chronomat is an all purpose watch for everyday or event wear. With a silver dial and black subdials, it will last the test of time. The glass is Cambered sapphire, glareproofed on both sides, so no matter what angle or time it is always easily read. A steel case and the signature steel Rouleaux bracelet make it very durable, to be worn anywhere. A water resistancy of 200m and power reserve of apprx. 70 hours. Model ref: AB0134101G1A1",
         "price": 7995.00,
         "category": 5,
@@ -87,8 +87,8 @@
     "model": "products.product",
     "fields": {
         "sku": "01569610",
-        "name": "Breitling Navitimer Automatic 35 Silver Dial Stainless Steel Bracelet",
-        "description": "Stainless Steel and 18k Rose Gold - Mother-Of-Pearl Diamonds. Refined and elegant, the Navitimer Automatic 35 combines the historic appeal of a true icon with the sophistication of a contemporary timepiece.",
+        "name": "Breitling Navitimer Automatic Stainless Steel Bracelet",
+        "description": "Breitling Navitimer Automatic 35 Silver Dial Stainless Steel Bracelet - Stainless Steel and 18k Rose Gold - Mother-Of-Pearl Diamonds. Refined and elegant, the Navitimer Automatic 35 combines the historic appeal of a true icon with the sophistication of a contemporary timepiece.",
         "price": 8400.00,
         "category": 5,
         "rating": 4.4,
@@ -101,7 +101,7 @@
     "model": "products.product",
     "fields": {
         "sku": "01569103",
-        "name": "Breitling Navitimer Automatic 35 Silver Dial Burgundy Leather Strap",
+        "name": "Breitling Navitimer Automatic Burgundy Leather Strap",
         "description": "Refined and elegant, the Navitimer Automatic 35 combines the historic appeal of a true icon with the sophistication of a contemporary timepiece.",
         "price": 3900.00,
         "category": 5,
@@ -115,8 +115,8 @@
     "model": "products.product",
     "fields": {
         "sku": "01569123",
-        "name": "Breitling Avenger Automatic GMT 43 Black Dial Stainless Steel Bracelet",
-        "description": "Bold, extremely robust and shock resistant, the Avenger Automatic GMT 43 features an additional red hand indicating a second time zone. As a true Breitling Avenger, it can be used wearing gloves and offers unrivalled safety and reliability to any airborne adventurer.",
+        "name": "Breitling Avenger Automatic GMT 43",
+        "description": "Breitling Avenger Automatic GMT 43 Black Dial Stainless Steel Bracelet - Bold, extremely robust and shock resistant, the Avenger Automatic GMT 43 features an additional red hand indicating a second time zone. As a true Breitling Avenger, it can be used wearing gloves and offers unrivalled safety and reliability to any airborne adventurer.",
         "price": 4300.00,
         "category": 5,
         "rating": 4.7,
@@ -129,8 +129,8 @@
     "model": "products.product",
     "fields": {
         "sku": "01569152",
-        "name": "Breitling Navitimer Automatic 41 Blue Dial Stainless Steel Bracelet",
-        "description": "Stainless Steel - Blue Refined and elegant, the Navitimer Automatic 41mm combines the historic appeal of a true icon with the sophistication of a contemporary timepiece.",
+        "name": "Breitling Navitimer Automatic 41 Blue Dial",
+        "description": "Breitling Navitimer Automatic 41 Blue Dial Stainless Steel Bracelet - Stainless Steel - Blue Refined and elegant, the Navitimer Automatic 41mm combines the historic appeal of a true icon with the sophistication of a contemporary timepiece.",
         "price": 4400.00,
         "category": 5,
         "rating": 4.4,
