@@ -40,7 +40,6 @@
         "image": "Tag-Heuer-Carrera-29mm-Stainless-Steel-Automatic.jpg"
     }
 },
-//Breitling
 {
     "pk": 4,
     "model": "products.product",
@@ -153,7 +152,6 @@
         "image": "Breitling-Navitimer-Automatic-35-Mother-Of-Pearl-Dial-18k-Rose-Gold-Strap.jpg"
     }
 },
-//ladies rolex
 {
     "pk": 12,
     "model": "products.product",
@@ -224,7 +222,6 @@
         "image": "Rolex-2021-unworn-Datejust-36mm.jpg"
     }
 },
-//mens rolex
 {
     "pk": 17,
     "model": "products.product",
@@ -358,5 +355,5 @@
         "rating": 4.7,
         "image": "ap_royaloak_offshore.jpg"
     }
-},
+}
 ]
