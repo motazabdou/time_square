@@ -2,10 +2,10 @@
     <ul class="navbar-nav w-auto mx-auto">
         
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="all-products-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="all-watches-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 All Watches <i class="fas fa-angle-down"></i>
             </a>
-            <div class="dropdown-menu border-0" aria-labelledby="all-products-link">
+            <div class="dropdown-menu border-0" aria-labelledby="all-watches-link">
                 <a href="" class="dropdown-item">By Price</a>
                 <a href="" class="dropdown-item ">By Rating</a>
                 <a href="" class="dropdown-item ">By Category</a>
@@ -14,32 +14,32 @@
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="clothing-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="brands-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Brands <i class="fas fa-angle-down"></i>
             </a>
-            <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">Rolex</a>
-                <a href="" class="dropdown-item">Omega</a>
-                <a href="" class="dropdown-item">Hublot</a>
-                <a href="" class="dropdown-item">Tissot</a>
-                <a href="" class="dropdown-item">Breitling</a>
+            <div class="dropdown-menu border-0" aria-labelledby="brands-link">
+                <a href="{% url 'products' %}?category=rolex" class="dropdown-item">Rolex</a>
+                <a href="{% url 'products' %}?category=tag_heuer" class="dropdown-item">Tag Heuer</a>
+                <a href="{% url 'products' %}?category=patek_philippe" class="dropdown-item">Patek Philippe</a>
+                <a href="{% url 'products' %}?category=audemars_piguet" class="dropdown-item">Audemars Piguet</a>
+                <a href="{% url 'products' %}?category=breitling" class="dropdown-item">Breitling</a>
             </div>
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="homeware-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="specials-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Special Offers <i class="fas fa-angle-down"></i>
             </a>
-            <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">New Arrivals</a>
-                <a href="" class="dropdown-item">Deals</a>
-                <a href="" class="dropdown-item">Clearance</a>
-                <a href="" class="dropdown-item">All Specials</a>
+            <div class="dropdown-menu border-0" aria-labelledby="specials-link">
+                <a href="{% url 'products' %}?category=new_arrivals" class="dropdown-item">New Arrivals</a>
+                <a href="{% url 'products' %}?category=deals" class="dropdown-item">Deals</a>
+                <a href="{% url 'products' %}?category=clearance" class="dropdown-item">Clearance</a>
+                <a href="{% url 'products' %}?category=new_arrivals,deals,clearance" class="dropdown-item">All Specials</a>
             </div>
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-white" href="#" id="specials-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="logo-font font-weight-bold nav-link text-white" href="#" id="contact-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Contact
             </a>
         </li>
