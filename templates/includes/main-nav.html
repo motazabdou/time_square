@@ -8,7 +8,7 @@
             <div class="dropdown-menu border-0" aria-labelledby="all-watches-link">
                 <a href="{% url 'products' %}?sort=price&direction=asc" class="dropdown-item">By Price</a>
                 <a href="{% url 'products' %}?sort=rating&direction=desc" class="dropdown-item ">By Rating</a>
-                <a href="{% url 'products' %}?sort=category&direction=asc" class="dropdown-item ">By Category</a>
+                <a href="{% url 'products' %}?sort=category&direction=asc" class="dropdown-item ">By Brand</a>
                 <a href="{% url 'products' %}" class="dropdown-item">All Watches</a>
             </div>
         </li>
@@ -23,6 +23,7 @@
                 <a href="{% url 'products' %}?category=patek_philippe" class="dropdown-item">Patek Philippe</a>
                 <a href="{% url 'products' %}?category=audemars_piguet" class="dropdown-item">Audemars Piguet</a>
                 <a href="{% url 'products' %}?category=breitling" class="dropdown-item">Breitling</a>
+                <a href="{% url 'products' %}?category=audemars_piguet,breitling,patek_philippe,tag_heuer,rolex" class="dropdown-item">All Brands</a>
             </div>
         </li>
 
