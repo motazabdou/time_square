@@ -72,6 +72,14 @@ body {
     background-color: black !important;
 }
 
+.dropdown-menu {
+    background: black;
+}
+
+.dropdown-item {
+    color:rgba(255, 255, 255, 0.8);
+}
+
 .hero h2 {
     font-family: 'italiana', serif;
     font-weight: bold;
