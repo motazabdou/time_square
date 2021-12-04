@@ -85,6 +85,7 @@ body {
     font-weight: bold;
     color: #131212;
     text-align: center;
+    text-shadow: rgb(112 112 112) 0 -1px 10px, rgb(255 255 255 / 50%) 0 1px 1px, rgb(255 255 255 / 50%) 0 0 5px, rgb(167 167 167) 0 0 20px;
 }
 
 .shop-now-button {
