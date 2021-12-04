@@ -175,7 +175,7 @@ a.category-badge > span.badge:hover {
 }
 
 table thead {
-    background: grey;
+    background: rgb(228, 227, 227);
 }
 
 /* -------------------------------- Media Queries */
