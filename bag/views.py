@@ -1,4 +1,4 @@
-from django.shortcuts import render, redirect
+from django.shortcuts import render, redirect, reverse, HttpResponse
 
 # Create your views here.
 
@@ -21,3 +21,32 @@ def add_to_bag(request, item_id):
 
     request.session['bag'] = bag
     return redirect(redirect_url)
+
+
+def adjust_bag(request, item_id):
+    """ Adjusts the number of weeks to the specified number """
+
+    num_of_weeks = int(request.POST.get('num_of_weeks'))
+    bag = request.session.get('bag', {})
+
+    if num_of_weeks > 0:
+        bag[item_id] = num_of_weeks
+    else:
+        bag.pop(item_id)
+
+    request.session['bag'] = bag
+    return redirect(reverse('view_bag'))
+
+
+def remove_from_bag(request, item_id):
+    """ Removes item from shopping bag """
+
+    try:
+        bag = request.session.get('bag', {})
+        bag.pop(item_id)
+
+        request.session['bag'] = bag
+        return HttpResponse(status=200)
+
+    except Exception as e:
+        return HttpResponse(status=500)
