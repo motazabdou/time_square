@@ -1,0 +1,10 @@
+.fieldset-label {
+    position: relative;
+    right: 0.5rem;
+}
+
+.form-control,
+#card-element {
+    color: black;
+    border: solid 1px black;
+}
