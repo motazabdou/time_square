@@ -65,3 +65,7 @@
     margin: 0;
     height: 100%;
 }
+
+.order-confirmation-wrapper {
+  line-height: 30px;
+}
