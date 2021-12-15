@@ -3,6 +3,10 @@
     overflow-y: auto;
 }
 
+.spacer {
+    padding: 40px 0;
+}
+
 #profile-update-form input::placeholder {
     color: #aab7c4;
 }
