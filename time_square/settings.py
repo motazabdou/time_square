@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-!x)i(ho6vgn!1$t$ag_go(jnh(r!v71s67kl0xfm)q34or^^2)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['time-square-project.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['time-square.herokuapp.com', 'localhost']
 
 
 # Application definition
@@ -119,11 +119,16 @@ WSGI_APPLICATION = 'time_square.wsgi.application'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+if 'DATABASE_URL' in os.environ:
+    DATABASES = {
+        'default': dj_database_url.parse(os.environ.get('DATABASE_URL'))
     }
+else:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': BASE_DIR / 'db.sqlite3',
+        }
 }
 
 
