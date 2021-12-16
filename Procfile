@@ -1,1 +1,1 @@
-web: gunicorn time-square.wsgi:application
+web: gunicorn time_square.wsgi:application
