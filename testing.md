@@ -60,11 +60,10 @@
 * Checked if the form is been displayed correctly.
 * Checked if General Query is set as a default option and the other dropddown options are available.
 * Checked if the form won't submit if the required fields are left blank.
-
-### Contact page troubleshooting:
----------------------------------
 * Checked if the user is redirected to the home with a success message is being displayed but getting server error 500 not allowing form submission.
 * Checked if an email was sent letting the admin know about a new contact form submitted but cannot get to that page due to server error.
+* Upon inspection, the problem is occurring because I've set DEBUG = False in settings.py for obvious security reasons. 
+* The form along with its submission, redirect and toasts all work perfectly fine when DEBUG = True in settings.py
 
 
 ### 404
