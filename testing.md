@@ -103,3 +103,6 @@ Lighthouse report for products page:
 <p align="center">  
    <img src="documentation/testing-images/lighthouse-report-products.png" alt="screenshot of home page"/>  
 </p>
+
+
+[<-- Go Back to README.md](README.md)

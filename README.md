@@ -212,7 +212,7 @@ Image Size and Hosting - Some images haven't been sized to the uniform dimension
 * Github - used to host repository.
 * Heroku - used to deploy.
 * Figma - used for creation of mockups.
-* Am I Responsive - used for testing purposes as well as creating the image to display the web pages on different devices.
+* Google Chrome DevTools - used for testing purposes as well as creating the image to display the web pages on different devices.
 * Google Chrome DevTools - used for testing and debugging.
 * PageSpeed insights - used for testing the loading speed of the site.
 * Lighthouse Audit - used to test whether the site meets the standards expected.
@@ -223,3 +223,17 @@ Image Size and Hosting - Some images haven't been sized to the uniform dimension
 * Color Scheme Designer - used to test colour combinations.
 * jshint - used to validate my Javascript code.
 * PEP8 - used to validate my Python code.
+
+## Testing
+
+For testing the Stripe checkout I used the following card details:
+```
+Card number: 4242 4242 4242 4242
+CVC_: any 3 digits
+Card expiry date: any future date
+ZIP/Postcode: any 5 digits
+```
+
+For further tests, different card info can be found in the [Stripe Documentation](https://stripe.com/docs/testing#cards).
+
+Testing information can be found [here](testing.md).
