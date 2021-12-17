@@ -36,3 +36,61 @@ Link to Live Website [here](https://time-square.herokuapp.com/)
 * [Acknowledgements](#Acknowledgements)  
 
 ***  
+
+# User Experience
+
+## Goals 
+
+### Time Square goals 
+
+The goal of this website is to allow users, who cannot afford to buy a luxury watch, the ability to rent a luxury watch at a price per week. 
+
+### Target audience is: 
+
+* People who cannot afford to buy a luxury watch. 
+
+* People who would like to wear a different watch for a specific reason/ocassion. 
+
+* People who like to change their watches throughout the year. 
+
+* People who have a special ocassion to attend. 
+
+* Any age group. 
+
+### Business goals 
+
+* Interactive website. 
+
+* Fully functional website. 
+
+* Intuitive design. 
+
+* Easy to navigate. 
+
+* To have as many registered users as possible. 
+
+* Daily increases in user numbers. 
+
+* Daily increases in reviews being added. 
+
+* Make it as easy as possible for customers to complete a rental purchase. 
+
+* Interactive communications with the customers at every stage of the rental process. 
+
+### Customer goals 
+
+* Easy to navigate. 
+
+* Easy to search for specific keywords. 
+
+* Easily locate a product. 
+
+* Easy to add and edit information. 
+
+* Easy to register and login securley. 
+
+* Email communication when an action is completed. 
+
+* Personal profile showing order history and modifiable billing details.
+
+Both business and customer goals are addressed through user stories. 
