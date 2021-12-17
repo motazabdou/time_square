@@ -175,6 +175,8 @@ Most and Least Visited Pages on the Site - Use an analytics tool such as Hotjar 
 
 Adding an equal number of ladies and gents watches and providing a filtering option to display appropriate user choice.
 
+Adding social accounts login and register features, and possible Google Pay and Apple Pay features for payment, which can potentially retain more customers due to ease of use and bypassing a longer login/registration duration, which could send some customers away from the store.
+
 
 ### Bugs and Fixes for Future Releases After Testing 
 
@@ -297,3 +299,45 @@ python3 manage.py runserver
 * A prompt to find a Github repository to connect to will be displayed.
 * Enter the repository name for the project and Click `Search`.
 * Once the repo has been found, click the `Connect` Button.
+
+### Set environment variables:
+* Click on the `Settings` tab.
+* Click `Reveal Config Vars`.
+* Variables added:
+```
+AWS_ACCESS_KEY_ID
+AWS_SECRET_ACCESS_KEY
+DATABASE_URL
+EMAIL_HOST_PASSWORD
+EMAIL_HOST_USER
+SECRET_KEY
+STRIPE_PUBLIC_KEY
+STRIPE_SECRET_KEY
+STRIPE_WH_SECRET
+USE_AWS
+```
+
+### Enable automatic deployment:
+* Click the `Deploy` tab.
+* In the Automatic Deploys section, choose the branch you want to deploy.
+* Click `Enable Automation Deploys`.
+***
+
+# Acknowledgements
+
+### Media and Content
+All watch images and watch descriptions were curated from various online retailers. This also explains the descrepancies in image sizes, which due to time constraints and personal commitments, I didn't have the time to modify them on Adobe photoshop as I would have liked.
+
+### Tutorials
+I have referred to Code Institute's Boutique Ado project for inspiration and to build a good bulk of my project, as well as Youtube videos uploaded by Dennis Ivy, Code with Mosh and Tech with Time for further explanation of django concepts that were difficult to grasp, as well as to get a deeper understanding of webhooks which were quite tedious. 
+
+### Pages used for information:
+* W3schools
+* Stack overflow
+* MDN Web docs
+
+
+I would also like to thank:
+* My family and friends who have been very supportive and eager to see the outcome of my work, giving me drive and motivation. 
+* My mentor Brian Macharia who always made himself available when needed, despite all slots being reserved sometimes
+* Code Institute Tutor support, especially Ed, Igor and John for being very patient with me
