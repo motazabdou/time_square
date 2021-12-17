@@ -101,8 +101,26 @@ Lighthouse report for Home Page:
 Lighthouse report for products page:
 
 <p align="center">  
-   <img src="documentation/testing-images/lighthouse-report-products.png" alt="screenshot of home page"/>  
+   <img src="documentation/testing-images/lighthouse-report-products.png" alt="screenshot of products page"/>  
 </p>
+
+### W3 HTML validator:
+
+HTML validation for home page:
+<p align="center">  
+   <img src="documentation/testing-images/html-validator-report-home.png" alt="screenshot of home page"/>  
+</p>
+
+The two warnings issued were due to duplicate Ids, however, due to the Ids being defined by bootstrap by default, removing them could have caused unnecessary problems in the page layout. Another issue highlighted is that the type attribute is unnecessary for scripts. I personally prefer to leave it there and don't see it as an issue requiring attention, since linters in most IDEs produce the same tag.
+
+***
+
+HTML validation for products pages:
+<p align="center">  
+   <img src="documentation/testing-images/html-validator-report-products.png" alt="screenshot of products page"/>  
+</p>
+
+
 
 
 [<-- Go Back to README.md](README.md)
