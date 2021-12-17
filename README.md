@@ -162,9 +162,10 @@ All the User Stories have been assessed against value and complexity. Due to the
 * 404 & 500 Pages 
 * Customised pages to match the design of the rest of the website. 
 * Admin dashboard for Admin/Superuser that allows complete admin control over orders, accounts, users, products categories and more
-***
+
 
 ### Features left to implement 
+
 
 Product Ratings - The site currently shows ratings for each product, however this is hard wired into the database and cannot be changed by the users. For the next release I would like to create the functionality so that users can score each watch with a rating which displays in real time. 
 
@@ -173,9 +174,52 @@ Tracking User Behaviour - Use an analytics tool such as Hotjar or Google analyti
 Most and Least Visited Pages on the Site - Use an analytics tool such as Hotjar to understand where the traffic is going on the site.
 
 Adding an equal number of ladies and gents watches and providing a filtering option to display appropriate user choice.
-***
+
 
 ### Bugs and Fixes for Future Releases After Testing 
 
+
 Image Size and Hosting - Some images haven't been sized to the uniform dimensions, due to time constraints and other responsibilites, I haven't had the chance to resize images in photoshop, but this can be fixed via fixtures, uploading correctly sized images to AWS S3 bucket, also through the admin panel or on the website itself via logging in as a Superuser/ Admin. 
+
 ***
+
+## Technologies
+
+### Languages:
+
+* HTML
+* CSS
+* JavaScript
+* Python
+
+### Libraries & Frameworks:
+
+* Bootstrap - used for responsive grid system, styling and toasts.
+* JQuery - were used in conjunction with the Materialize library.
+* FontAwseome - used for all icons on the site.
+* Google Fonts - used for the Italiana and Roboto font.
+* Unsplash - used for images.
+* Django - a Python framework.
+
+### Media Storage:
+
+* Amazon Web Services - Cloud storage for static and media files
+
+### Tools:
+
+* Gitpod - used as IDE for this project.
+* Git - used for version control.
+Github - used to host repository.
+Heroku - used to deploy.
+* Figma - used for creation of mockups.
+* Am I Responsive - used for testing purposes as well as creating the image to display the web pages on different devices.
+* Google Chrome DevTools - used for testing and debugging.
+* PageSpeed insights - used for testing the loading speed of the site.
+* Lighthouse Audit - used to test whether the site meets the standards expected.
+* w3 html validator - used to test and validate my html code.
+* w3 css validator - used to test and validate my css code.
+* Free Formatter - used to format my html, css and javascript code.
+* Browserstack - used to test my site on different browsers.
+* Color Scheme Designer - used to test colour combinations.
+* jshint - used to validate my Javascript code.
+* PEP8 - used to validate my Python code.
