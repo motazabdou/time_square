@@ -142,7 +142,7 @@ All the User Stories have been assessed against value and complexity. Due to the
 * Italiana - Used in Headings, hero text due to the sense of elegance it adds
 * Roboto - for paragraphs, links and forms
 
-## Features 
+# Features 
 
 ### Existing Features 
 
@@ -183,7 +183,7 @@ Image Size and Hosting - Some images haven't been sized to the uniform dimension
 
 ***
 
-## Technologies
+# Technologies
 
 ### Languages:
 
@@ -223,8 +223,9 @@ Image Size and Hosting - Some images haven't been sized to the uniform dimension
 * Color Scheme Designer - used to test colour combinations.
 * jshint - used to validate my Javascript code.
 * PEP8 - used to validate my Python code.
+***
 
-## Testing
+# Testing
 
 For testing the Stripe checkout I used the following card details:
 ```
@@ -237,3 +238,45 @@ ZIP/Postcode: any 5 digits
 For further tests, different card info can be found in the [Stripe Documentation](https://stripe.com/docs/testing#cards).
 
 Testing information can be found [here](testing.md).
+***
+
+# Deployment
+
+### Project Creation
+* To create this project the used the CI Gitpod Full Template.
+* I was then directed to the create a new repository from the template page and entered in my desired repository name, then clicked create repository.
+* Once created, I navigated to my new repository on GitHub and clicked the Gitpod button which built my workspace.
+
+### Local Installation
+A copy of the GitHub repository can be saved by clicking the green "Code" button at the top of the page, then clicking the "download.zip" button and extracting the zip file, or you clone the repository with this command:
+```
+$ git clone https://github.com/motazabdou/time_square.git
+```
+
+* Copy the repository into your IDE of choice.
+* Install all required modules with the command:
+```
+pip3 install -r requirements.txt
+```
+
+* Store your environment variables and save them in the Environment Variables-Settings in your IDE:
+* DEVELOPMENT - Set to True
+* SECRET_KEY - From a free Django Secret Key Generator
+* STRIPE_PUBLIC_KEY - From Developer's API on the Stripe dashboard
+* STRIPE_SECRET_KEY - From Developer's API on the Stripe dashboard
+* STRIPE_WH_SECRET - From Stripe's developer API after creating a webhook
+
+* Set up the local database running the following commands:
+```
+python3 manage.py makemigrations
+python3 manage.py migrate
+```
+* Create a superuser to access the Django Admin Panel with the command:
+```
+python3 manage.py createsuperuser
+```
+
+* Start your server running the following command:
+```
+python3 manage.py runserver
+```
