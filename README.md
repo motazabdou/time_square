@@ -15,7 +15,24 @@ Time Square is an e-commerce site which enables customers to rent luxury watches
 The website can be viewed on Desktop, Tablet and Mobile devices.  
 
   
-Link to Live Website[here](https://time-square.herokuapp.com/)   
+Link to Live Website [here](https://time-square.herokuapp.com/)   
 
    
  ***  
+
+ ## Index – Table of Contents   
+
+
+* [User Experience](#User-Experience)  
+
+* [Features](#Features)  
+
+* [Technologies](#Technologies)  
+
+* [Testing](#Testing)  
+
+* [Deployment](#Deployment)    
+
+* [Acknowledgements](#Acknowledgements)  
+
+***  
