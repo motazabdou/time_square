@@ -209,8 +209,8 @@ Image Size and Hosting - Some images haven't been sized to the uniform dimension
 
 * Gitpod - used as IDE for this project.
 * Git - used for version control.
-Github - used to host repository.
-Heroku - used to deploy.
+* Github - used to host repository.
+* Heroku - used to deploy.
 * Figma - used for creation of mockups.
 * Am I Responsive - used for testing purposes as well as creating the image to display the web pages on different devices.
 * Google Chrome DevTools - used for testing and debugging.
