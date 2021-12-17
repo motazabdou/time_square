@@ -120,7 +120,7 @@ HTML validation for products pages:
    <img src="documentation/testing-images/html-validator-report-products.png" alt="screenshot of products page"/>  
 </p>
 
-
+Again, duplicate ids and the unnecessary presence of type attribute in script file seems to be the only html validation issue with all pages, including the products page which was tested as seen in the above screenshot, but also product details page, but this is due to the fact that all templates inherit the base template, which includes the bootstrap navigation bar for both desktop and mobile screens, with the issue being present only in he navbar 
 
 
 [<-- Go Back to README.md](README.md)
