@@ -60,8 +60,11 @@
 * Checked if the form is been displayed correctly.
 * Checked if General Query is set as a default option and the other dropddown options are available.
 * Checked if the form won't submit if the required fields are left blank.
-* Checked if the user is redirected to the home with a success message is being displayed.
-* Checked if an email was sent letting the admin know about a new contact form submitted.
+
+### Contact page troubleshooting:
+---------------------------------
+* Checked if the user is redirected to the home with a success message is being displayed but getting server error 500 not allowing form submission.
+* Checked if an email was sent letting the admin know about a new contact form submitted but cannot get to that page due to server error.
 
 
 ### 404
