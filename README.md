@@ -248,7 +248,7 @@ Testing information can be found [here](testing.md).
 * Once created, I navigated to my new repository on GitHub and clicked the Gitpod button which built my workspace.
 
 ### Local Installation
-A copy of the GitHub repository can be saved by clicking the green "Code" button at the top of the page, then clicking the "download.zip" button and extracting the zip file, or you clone the repository with this command:
+A copy of the GitHub repository can be saved by clicking the green ==Code== button at the top of the page, then clicking the ==download.zip== button and extracting the zip file, or you clone the repository with this command:
 ```
 $ git clone https://github.com/motazabdou/time_square.git
 ```
@@ -280,3 +280,20 @@ python3 manage.py createsuperuser
 ```
 python3 manage.py runserver
 ```
+
+***
+
+### Remote Deployment on Heroku
+* Create application
+* Setup and account and log in to Heroku.
+* Click on the ==new== button.
+* Select ==create new app==.
+* Enter the app name.
+* Select region nearest you geographically.
+
+### Set up connection to Github Repository:
+* Click the ==Deploy== tab.
+* Select ==GitHub - Connect to GitHub==.
+* A prompt to find a Github repository to connect to will be displayed.
+* Enter the repository name for the project and Click ==Search==.
+* Once the repo has been found, click the ==Connect== Button.
