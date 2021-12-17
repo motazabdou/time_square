@@ -194,6 +194,12 @@ Image Size and Hosting - Some images haven't been sized to the uniform dimension
 * JavaScript
 * Python
 
+### Database
+
+<p align="center">  
+   <img src="documentation/site-images/data_schema.png" alt="Data Schema"/>  
+</p>
+
 ### Libraries & Frameworks:
 
 * Bootstrap - used for responsive grid system, styling and toasts.
@@ -329,7 +335,7 @@ USE_AWS
 All watch images and watch descriptions were curated from various online retailers. This also explains the descrepancies in image sizes, which due to time constraints and personal commitments, I didn't have the time to modify them on Adobe photoshop as I would have liked.
 
 ### Tutorials
-I have referred to Code Institute's Boutique Ado project for inspiration and to build a good bulk of my project, as well as Youtube videos uploaded by Dennis Ivy, Code with Mosh and Tech with Time for further explanation of django concepts that were difficult to grasp, as well as to get a deeper understanding of webhooks which were quite tedious. 
+I have referred to Code Institute's Boutique Ado project for inspiration and to build a good bulk of my project, and customised content according to my project's demands. I have also relied on Youtube videos uploaded by Dennis Ivy, Code with Mosh and Tech with Tim for further explanation of django concepts that were difficult to grasp, as well as to get a deeper understanding of webhooks which were quite tedious. I have created my own custom contact app which has not been specifically covered in boutique ado.
 
 ### Pages used for information:
 * W3schools
