@@ -162,6 +162,7 @@ All the User Stories have been assessed against value and complexity. Due to the
 * 404 & 500 Pages 
 * Customised pages to match the design of the rest of the website. 
 * Admin dashboard for Admin/Superuser that allows complete admin control over orders, accounts, users, products categories and more
+***
 
 ### Features left to implement 
 
@@ -172,7 +173,9 @@ Tracking User Behaviour - Use an analytics tool such as Hotjar or Google analyti
 Most and Least Visited Pages on the Site - Use an analytics tool such as Hotjar to understand where the traffic is going on the site.
 
 Adding an equal number of ladies and gents watches and providing a filtering option to display appropriate user choice.
+***
 
 ### Bugs and Fixes for Future Releases After Testing 
 
 Image Size and Hosting - Some images haven't been sized to the uniform dimensions, due to time constraints and other responsibilites, I haven't had the chance to resize images in photoshop, but this can be fixed via fixtures, uploading correctly sized images to AWS S3 bucket, also through the admin panel or on the website itself via logging in as a Superuser/ Admin. 
+***
