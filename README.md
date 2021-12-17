@@ -136,3 +136,43 @@ All the User Stories have been assessed against value and complexity. Due to the
 - ![#555](https://via.placeholder.com/15/555/000000?text=+) `#555 - Davy's grey`
 - ![#fff](https://via.placeholder.com/15/fff/000000?text=+) `#fff - White`
 - ![#17a2b8](https://via.placeholder.com/15/17a2b8/000000?text=+) `#17a2b8 - Cyan`
+- ![#6c757d](https://via.placeholder.com/15/6c757d/000000?text=+) `#6c757d - Pompeii Ash`
+
+### Fonts
+* Italiana - Used in Headings, hero text due to the sense of elegance it adds
+* Roboto - for paragraphs, links and forms
+
+## Features 
+
+### Existing Features 
+
+* Fully responsive website across all popular devices, using Bootstrap Grid and custom media queries. 
+* Responsive Navigation Menu 
+* Intuitive and responsive Navigation menu. 
+* Registration & Login Forms 
+* Login and Registration pages with forms. 
+* Search Functionality - Search bar available on all pages with the ability to locate any keywords. 
+* Homepage Navigation - Ability to naviagte to the Homepage from anywhere on the site. 
+* Product Reviews - Each individual watch has a reviews section which users can add/edit/delete from when logged in. 
+* Shopping Bag Summary - Products summary appears as toast and on a new page allowing the user to update/delete the details. 
+* Checkout page that allows the user to enter personal/payment details to complete the transaction. 
+* Checkout Success Page to confirm whether or not a payment was successful. 
+* Order Confirmation Email - User will recieve an email confirming the details of their rental purchase. 
+* Contact - A contact form which allows users to contact the business and the user recieves a confirmation email once successfully completed. 
+* 404 & 500 Pages 
+* Customised pages to match the design of the rest of the website. 
+* Admin dashboard for Admin/Superuser that allows complete admin control over orders, accounts, users, products categories and more
+
+### Features left to implement 
+
+Product Ratings - The site currently shows ratings for each product, however this is hard wired into the database and cannot be changed by the users. For the next release I would like to create the functionality so that users can score each watch with a rating which displays in real time. 
+
+Tracking User Behaviour - Use an analytics tool such as Hotjar or Google analytics to view user behaviour. 
+
+Most and Least Visited Pages on the Site - Use an analytics tool such as Hotjar to understand where the traffic is going on the site.
+
+Adding an equal number of ladies and gents watches and providing a filtering option to display appropriate user choice.
+
+### Bugs and Fixes for Future Releases After Testing 
+
+Image Size and Hosting - Some images haven't been sized to the uniform dimensions, due to time constraints and other responsibilites, I haven't had the chance to resize images in photoshop, but this can be fixed via fixtures, uploading correctly sized images to AWS S3 bucket, also through the admin panel or on the website itself via logging in as a Superuser/ Admin. 
