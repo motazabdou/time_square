@@ -132,6 +132,7 @@ All the User Stories have been assessed against value and complexity. Due to the
 ### Design
 #### Colours
 
-- ![#000](https://via.placeholder.com/15/000/000000?text=+) `#000`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+- ![#000](https://via.placeholder.com/15/000/000000?text=+) `#000 - Black`
+- ![#555](https://via.placeholder.com/15/555/000000?text=+) `#555 - Davy's grey`
+- ![#fff](https://via.placeholder.com/15/fff/000000?text=+) `#fff - White`
+- ![#17a2b8](https://via.placeholder.com/15/17a2b8/000000?text=+) `#17a2b8 - Cyan`
